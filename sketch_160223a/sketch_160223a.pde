@@ -1,7 +1,7 @@
 void settings() { size(400, 800, P2D);
 }
 void setup() {
-      background(#86C7FF);
+      background(#613FF0);
 noLoop(); }
 void draw() { 
   plant(15, 0.4, 0.8);
